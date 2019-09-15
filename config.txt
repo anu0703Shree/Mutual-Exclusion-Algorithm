@@ -1,0 +1,6 @@
+#numNodes, inter-request delay, cs-execution time, numReqs
+3 20 20 200
+
+0 dc01 8000
+1 dc02 8001
+2 dc03 8002
